@@ -1,34 +1,24 @@
-"Agriculture;Automotive and Transport;Chemicals;Construction;Consumer Goods;Electronics and IT;Financial Services;Food;Machinery;Metals;Paper;Pharmaceuticals;Services;Steel;Textiles"
-"Agricultural Inputs;Auto & Truck Dealerships;Chemicals;Building Materials;Household & Personal Products;Information Technology Services;Asset Management;Food Distribution;Aerospace & Defense;Aluminum;Paper & Paper Products;Biotechnology;Education & Training Services;Steel;Textile Manufacturing"
-"Lumber & Wood Production;Auto Manufacturers;Specialty Chemicals;Residential Construction;Furnishings, Fixtures & Appliances;SoftwareApplication;BanksDiversified;Grocery Stores;Engineering & Construction;Other Industrial Metals & Mining;Packaging & Containers;Drug ManufacturersGeneral;UtilitiesIndependent Power Producers;Oil & Gas Drilling;Apparel Manufacturing"
-"Tobacco;Auto Parts;;Real EstateDevelopment;Apparel Retail;SoftwareInfrastructure;BanksRegional;Discount Stores;Building Products & Equipment;Silver;;Drug ManufacturersSpecialty & Generic;UtilitiesRenewable;Oil & Gas E&P;Footwear & Accessories"
-"Farm Products;Recreational Vehicles;;Real Estate Services;Department Stores;Communication Equipment;Mortgage Finance;BeveragesBrewers;Farm & Heavy Construction Machinery;Coking Coal;;Healthcare Plans;UtilitiesRegulated Water;Oil & Gas Integrated;"
-";Trucking;;Real EstateDiversified;Home Improvement Retail;Computer Hardware;Capital Markets;BeveragesWineries & Distilleries;Business Equipment & Supplies;Copper;;Medical Care Facilities;UtilitiesRegulated Electric;Oil & Gas Midstream;"
-";Integrated Freight & Logistics;;REITHealthcare Facilities;Luxury Goods;Consumer Electronics;Financial Data & Stock Exchanges;BeveragesNon-Alcoholic;Specialty Industrial Machinery;Gold;;Pharmaceutical Retailers;UtilitiesRegulated Gas;Oil & Gas Refining & Marketing;"
-";Railroads;;REITHotel & Motel;;Electronic Components;InsuranceLife;Confectioners;Tools & Accessories;Other Industrial Metals & Mining;;Health Information Services;UtilitiesDiversified;Oil & Gas Equipment & Services;"
-";Marine Shipping;;REITIndustrial;;Electronics & Computer Distribution;InsuranceProperty & Casualty;Packaged Foods;Electrical Equipment & Parts;Metal Fabrication;;Medical Devices;Personal Services;Thermal Coal;"
-";Infrastructure Operations;;REITOffice;;Scientific & Technical Instruments;InsuranceReinsurance;Restaurants;;;;Medical Instruments & Supplies;;Uranium;"
-";;;REITResidential;;Semiconductor Equipment & Materials;InsuranceSpecialty;;;;;Diagnostics & Research;Telecom Services;;"
-";;;REITRetail;;Semiconductors;Insurance Brokers;;;;;Medical Distribution;Advertising Agencies;;"
-";;;REITMortgage;;Solar;InsuranceDiversified;;;;;;Publishing;;"
-";;;REITSpecialty;;Internet Content & Information;Shell Companies;;;;;;Broadcasting;;"
-";;;REITDiversified;;Electronic Gaming & Multimedia;Financial Conglomerates;;;;;;Entertainment;;"
-";;;;;;Credit Services;;;;;;Specialty Business Services;;"
-";;;;;;;;;;;;Consulting Services;;"
-";;;;;;;;;;;;Rental & Leasing Services;;"
-";;;;;;;;;;;;Security & Protection Services;;"
-";;;;;;;;;;;;Staffing & Employment Services;;"
-";;;;;;;;;;;;Airports & Air Services;;"
-";;;;;;;;;;;;Airlines;;"
-";;;;;;;;;;;;Waste Management;;"
-";;;;;;;;;;;;Pollution & Treatment Controls;;"
-";;;;;;;;;;;;Industrial Distribution;;"
-";;;;;;;;;;;;;;"
-";;;;;;;;;;;;;;"	
+Agriculture	Automotive and Transport	Chemicals	Construction	Consumer Goods	Electronics and IT	Financial Services	Food	Machinery	Metals	Paper	Pharmaceuticals	Services	Steel	Textiles
+Agricultural Inputs	Auto & Truck Dealerships	Chemicals	Building Materials	Household & Personal Products	Information Technology Services	Asset Management	Food Distribution	Aerospace & Defense	Aluminum	Paper & Paper Products	Biotechnology	Education & Training Services	Steel	Textile Manufacturing
+Lumber & Wood Production	Auto Manufacturers	Specialty Chemicals	Residential Construction	Furnishings, Fixtures & Appliances	Software—Application	Banks—Diversified	Grocery Stores	Engineering & Construction	Other Industrial Metals & Mining	Packaging & Containers	Drug Manufacturers—General	Utilities—Independent Power Producers	Oil & Gas Drilling	Apparel Manufacturing
+Tobacco	Auto Parts		Real Estate—Development	Apparel Retail	Software—Infrastructure	Banks—Regional	Discount Stores	Building Products & Equipment	Silver		Drug Manufacturers—Specialty & Generic	Utilities—Renewable	Oil & Gas E&P	Footwear & Accessories
+Farm Products	Recreational Vehicles		Real Estate Services	Department Stores	Communication Equipment	Mortgage Finance	Beverages—Brewers	Farm & Heavy Construction Machinery	Coking Coal		Healthcare Plans	Utilities—Regulated Water	Oil & Gas Integrated	
+	Trucking		Real Estate—Diversified	Home Improvement Retail	Computer Hardware	Capital Markets	Beverages—Wineries & Distilleries	Business Equipment & Supplies	Copper		Medical Care Facilities	Utilities—Regulated Electric	Oil & Gas Midstream	
+	Integrated Freight & Logistics		REIT—Healthcare Facilities	Luxury Goods	Consumer Electronics	Financial Data & Stock Exchanges	Beverages—Non-Alcoholic	Specialty Industrial Machinery	Gold		Pharmaceutical Retailers	Utilities—Regulated Gas	Oil & Gas Refining & Marketing	
+	Railroads		REIT—Hotel & Motel		Electronic Components	Insurance—Life	Confectioners	Tools & Accessories	Other Industrial Metals & Mining		Health Information Services	Utilities—Diversified	Oil & Gas Equipment & Services	
+	Marine Shipping		REIT—Industrial		Electronics & Computer Distribution	Insurance—Property & Casualty	Packaged Foods	Electrical Equipment & Parts	Metal Fabrication		Medical Devices	Personal Services	Thermal Coal	
+	Infrastructure Operations		REIT—Office		Scientific & Technical Instruments	Insurance—Reinsurance	Restaurants				Medical Instruments & Supplies	Telecom Services	Uranium	
+			REIT—Residential		Semiconductor Equipment & Materials	Insurance—Specialty					Diagnostics & Research	Advertising Agencies		
+			REIT—Retail		Semiconductors	Insurance Brokers					Medical Distribution	Publishing		
+			REIT—Mortgage		Solar	Insurance—Diversified						Broadcasting		
+			REIT—Specialty		Internet Content & Information	Shell Companies						Entertainment		
+			REIT—Diversified		Electronic Gaming & Multimedia	Financial Conglomerates						Specialty Business Services		
+						Credit Services						Consulting Services		
+												Rental & Leasing Services		
+												Security & Protection Services		
+												Staffing & Employment Services		
 												Airports & Air Services		
 												Airlines		
 												Waste Management		
 												Pollution & Treatment Controls		
 												Industrial Distribution		
-														
-														
