@@ -13,7 +13,7 @@ Farm Products	Recreational Vehicles		Real Estate Services	Department Stores	Comm
 			REIT—Mortgage		Solar	Insurance—Diversified						Broadcasting		
 			REIT—Specialty		Internet Content & Information	Shell Companies						Entertainment		
 			REIT—Diversified		Electronic Gaming & Multimedia	Financial Conglomerates						Specialty Business Services		
-						Credit Services						Consulting Services		
+					Internet Retail	Credit Services						Consulting Services		
 												Rental & Leasing Services		
 												Security & Protection Services		
 												Staffing & Employment Services		
